@@ -1,1 +1,1 @@
-# go-hellowold
+# A Go Web Example
